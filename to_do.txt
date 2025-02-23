@@ -45,37 +45,30 @@
     - lectures:
         - Aiken, A. StanfordOnline SOE.YCSCS1 Compiler
             - https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YCSCS1+3T2024/home
-
         - Appel, A.W. 1997. Modern Compiler Implementation in C
-
         - Appel, A.W. 1998. Modern Compiler Implementation in ML
-
         - Neso Academy. 2023. Compiler Design
-
         - Rinard, M., Amarasinghe, S. 2005. MIT 6.035 Computer Language Engineering
-
         - Leiserson, C., Shun, J. 2018. MIT 6.172 Performance Engineering of Software Systems
             - current: Lecture 9: What Compilers Can and Cannot Do
-
     - readings:
         - craftinginterpreters
             - https://craftinginterpreters.com/contents.html
             - computation_and_information/5_software_and_its_engineering/0_software_notations_and_tools/3_compilers/craftinginterpreters
         - https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/pages/readings/
-
         - Cooper, Keith, and Linda Torczon. Engineering a Compiler. San Mateo, CA: Morgan Kaufman, 2003. ISBN: 155860698X.
             A modern classroom textbook, with increased emphasis on the back-end and implementation techniques. (Ark book)
-
         - Appel, Andrew W. Modern Compiler Implementation in Java®. Cambridge, UK: Cambridge University Press, 1997. ISBN: 0521583888.
             A textbook tutorial on compiler implementation, including techniques for many language features. (Tiger book)
             - https://www.cs.princeton.edu/~appel/modern/java/
             - https://www.cs.princeton.edu/~appel/modern/c/
-
         - Muchnick, Steven. Advanced Compiler Design and Implementation. 1st ed. San Mateo, CA: Morgan Kaufman, 1997. ISBN: 1558603204.
             Essentially a recipe book of optimizations; very complete and suited for industrial practitioners and researchers. (Whale book)
-
         - Aho, Alfred V., Ravi Sethi, and Jeffrey Ullman. Compilers: Principles, Techniques and Tools. Reading, MA: Addison-Wesley, 1986. ISBN: 0201100886.
             The classic compilers textbook, although its front-end emphasis reflects its age. (Dragon book)
+    - assignments:
+    - exams:
+    - quizzes:
     - tools:
         - https://github.com/compiler-explorer/compiler-explorer
 ============================================================================================================
@@ -84,37 +77,38 @@
         - lectures:
             - Prof. Chris Terman. 2017. MIT 6.004 Computation Structures
                 - current: 1.2.1 What is Information: *
-
             - Slonka, K., Hall, B.R. 2020. Assembly Programming and Computer Architecture for Software Engineers. 2nd Edition
-
             - MITx's Circuits and Electronics XSeries Program:
                 - series: https://www.edx.org/xseries/mitx-circuits-and-electronics
-
                 - MITx: Circuits and Electronics 1: Basic Circuit Analysis
                     - https://www.edx.org/learn/circuits/massachusetts-institute-of-technology-circuits-and-electronics-1-basic-circuit-analysis
-
                 - MITx: Circuits and Electronics 2: Amplification, Speed, and Delay
                     - https://www.edx.org/learn/circuits/massachusetts-institute-of-technology-circuits-and-electronics-2-amplification-speed-and-delay
-
                 - MITx: Circuits and Electronics 3: Applications
                     - https://www.edx.org/learn/electronics/massachusetts-institute-of-technology-circuits-and-electronics-3-applications-2
-
             - Prof. Charles Leiserson, Prof. Julian Shun. 2018. MIT 6.172 Performance Engineering of Software Systems
                 - current: None
-
         - readings:
             - https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/
             - but_how_do_it_know?_the_basic_principles_of_computers_for_everyone
             - https://github.com/brianrhall/Assembly
             - hardware integration | hardware-software integration | system integration: https://www.tea.blue/blog/hardware-software-integration-benefits/
-
         - assignments:
         - exams:
 
     - 5_software_and_its_engineering/0_software_notations_and_tools/1_general_programming_languages:
         - lectures:
         - readings:
-            - assembly
+            - machine_code: instruction sets:
+                - x86
+                - arm
+                - mibs
+                - risc-v:
+                    - https://github.com/riscv
+                    - https://github.com/mit-pdos/xv6-riscv
+                - cisc
+                - source: https://crackmes.one
+            - assembly:
                 - lectures:
                     - Slonka, K., Hall, B.R. 2020. Assembly Programming and Computer Architecture for Software Engineers. 2nd Edition
 
@@ -126,60 +120,34 @@
                                 - https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-5-c-to-assembly/
                 - readings:
                     - https://github.com/brianrhall/Assembly
-            
-            - machine_code: instruction sets
-                - x86
-                - arm
-                - mibs
-                - risc-v:
-                    - https://github.com/riscv
-                    - https://github.com/mit-pdos/xv6-riscv
-                - cisc
-                - resources: https://crackmes.one
-
-            - c
-                - complete: https://github.com/praisetompane-programming-languages/c
-                - lectures:
-                    - Neso Academy. 2021. C Programming
-                - readings:
-                    - Kernighan, B.W., Ritchie, D.M. 1988. The C Programming Language. 2nd Edition
-
-            - python
-                - complete: https://github.com/praisetompane-programming-languages/python
+            - python: https://github.com/praisetompane-programming-languages/python
                 - mojo[after all python and the other languages are learned]
                     - superset: https://github.com/modularml/mojo
                 - cpython[being studied as part of studying the language spec]
                     - study the cpython code base: https://github.com/praisetompane-programming-languages/cpython
-            
-            - haskell
-                - complete: https://github.com/praisetompane-programming-languages/haskell
+            - go: https://github.com/praise-programming-languages/go
+            - javascript: https://github.com/praise-programming-languages/javascript
+                - typescript: https://github.com/praise-programming-languages/typescript
+            - c: https://github.com/praise-programming-languages/c
+                - c++
+                - rust
+            - haskell: https://github.com/praisetompane-programming-languages/haskell
+                - scala: https://github.com/praise-programming-languages/scala[already learned, but could learn more including scala 3]
                 - source:
                     - https://github.com/haskell
                     - https://github.com/ghc
-                - write simplified interpreter and compiler for the language in the language
-
-            - pytorch
-                - complete: https://github.com/praisetompane-programming-languages/pytorch
-
-            - verilog
-                - complete: https://github.com/praisetompane-programming-languages/verilog
+            - verilog: https://github.com/praisetompane-programming-languages/verilog
                 - https://web.mit.edu/6.111/www/f2017/handouts/L03_4.pdf
                 - https://inst.eecs.berkeley.edu/~eecs151/fa20/files/verilog/Verilog_Primer_Slides.pdf
                 - https://www.chipverify.com/verilog/verilog-tutorial
-
-            - lean
-                - complete: https://github.com/praisetompane-programming-languages/lean
+            - lean: https://github.com/praisetompane-programming-languages/lean
                 - source:
                     - https://github.com/leanprover
-
-            - coq
-                - complete: https://github.com/praisetompane-programming-languages/coq
+            - coq: https://github.com/praisetompane-programming-languages/coq
                 - source:
                     - https://github.com/coq
-
-            - computer_programming
-                - complete: https://github.com/praisetompane/computation_and_information/tree/main/5_software_and_its_engineering/2_software_creation_and_management/computer_programming
-                - readings:
+            - computer_programming: https://github.com/praisetompane/computer_programming
+                - source:
                     Van Roy, P. 2004. Concepts, Techniques, and Models of Computer Programming
 
         - assignments:

@@ -7,6 +7,7 @@ SRP
 TBD
 ZA
 
+
 # authors
 ahmedbahaaeldin
 Aho
@@ -175,6 +176,8 @@ wikibooks
 xgboost
 XPATH
 
+# domain specific
+trie
 
 # course codes:
 BSc
@@ -241,6 +244,7 @@ yaml
 cpython
 modularml
 
+
 # institutions
 ACM
 anthropics
@@ -298,12 +302,14 @@ XSeries
 mitx
 xseries
 
+
 # programming keyowrds
 ArrayList
 craftinginterpreters
 forName
 printf
 py
+
 
 # programming definitions
 BankToBankPayment
@@ -345,6 +351,7 @@ WriteStream
 ZapperPayment
 ZeroAmountException
 ZeroPayablePayment
+
 
 # urls
 AddSteps

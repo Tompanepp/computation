@@ -10,9 +10,10 @@ jobs:
   spell_check:
     runs-on: ubuntu-latest
     steps:
-    - name: check out repo
+    - name: Check Repository
       uses: actions/checkout@v4
-    - name: spell check
+
+    - name: Spell Check
       uses: rojopolis/spellcheck-github-actions@0.45.0
       with:                                        
         output_file: spellcheck-output.txt
