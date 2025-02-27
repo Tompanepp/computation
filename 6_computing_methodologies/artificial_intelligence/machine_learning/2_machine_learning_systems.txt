@@ -15,4 +15,4 @@ Main Regions and Notable landmarks of the Continent of Machine Learning¹:
         P2:  Model Based Learning 
 
 references:
-    1 Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow by Aurélien Géron (O'Reilly). Copyright 2019 Aurélien Géron, 978-1-492-03264-9.
+    Geron A. 2019. Hands On Machine Learning with Scikit Learn and TensorFlow. 2nd edition.

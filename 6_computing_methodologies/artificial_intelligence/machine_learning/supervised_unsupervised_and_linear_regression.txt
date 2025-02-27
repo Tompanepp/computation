@@ -33,36 +33,35 @@ k
 
     1.2. Implementation of the "Linear Regression with one variable" model
 
-    1.2.1. The "Cost Function"
-      -> Figure out how to fit "the best straight line" through our data : Why though?
-      ∴ How to implement (construct) this straight line
+      1.2.1. The "Cost Function"
+        -> Figure out how to fit "the best straight line" through our data : Why though?
+        ∴ How to implement (construct) this straight line
 
-    1.2.2  hθ(x) = θ1 + θ2x
-      -> θ1 and θ2 = parameters of the model
+      1.2.2  hθ(x) = θ1 + θ2x
+        -> θ1 and θ2 = parameters of the model
 
-    1.2.3. How do you choose these parameters?
+      1.2.3. How do you choose these parameters?
 
-        Given {
-          Given a dataset plotted(scatter plot) on Cartesian plane
-          Best straight line for the data identified
-        }
+          Given {
+            Given a dataset plotted(scatter plot) on Cartesian plane
+            Best straight line for the data identified
+          }
 
-        -> How do we determine the values of θ1 and θ2 that will give us this line?
+          -> How do we determine the values of θ1 and θ2 that will give us this line?
 
-          hθ(x) := Output of function
-          y := Actual value
+            hθ(x) := Output of function
+            y := Actual value
 
-          Goal: Choose θ1 and θ2 so that {hθ(x)} is as close to {y} as possible for our
-          training set
+            Goal: Choose θ1 and θ2 so that {hθ(x)} is as close to {y} as possible for our
+            training set
 
-          ∴ Minimize the difference between hθ(x) and y
+            ∴ Minimize the difference between hθ(x) and y
 
-            Solve minimization problem:
+              Solve minimization problem:
 
-            minimize (θ1, θ2)  (hθ(x) - y )^2
+              minimize (θ1, θ2)  (hθ(x) - y )^2
 
-  2. Unsupervised Learning
-
+  2. Unsupervised Learning:
     - Machine is tasked with finding the "right answer"
     - Find the Structure of the data and provide output to "make sense" of the data
 

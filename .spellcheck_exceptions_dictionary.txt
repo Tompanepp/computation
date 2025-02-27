@@ -1,4 +1,4 @@
-# acronyms
+# acronyms/abbreviations
 LSP
 MYINC
 OCP
@@ -6,9 +6,10 @@ OWASP
 SRP
 TBD
 ZA
-
+vec
 
 # authors
+amasad
 ahmedbahaaeldin
 Aho
 Amarasinghe
@@ -61,6 +62,7 @@ Wengrow
 Yanofsky
 Zach
 Slonka
+Geron
 
 # concepts
 superset
@@ -178,6 +180,8 @@ XPATH
 
 # domain specific
 trie
+deserialization
+misconfiguration
 
 # course codes:
 BSc
@@ -194,11 +198,14 @@ YCSCS
 
 
 # technology
+visualstudio
+devcontainers
 ActiveMQ
 Artifactory
 boneCP
 cisc
 coq
+Idris
 CoreNLP
 Dropwizard
 ghc
@@ -246,6 +253,7 @@ modularml
 
 
 # institutions
+reddit
 ACM
 anthropics
 CareerCup
@@ -323,6 +331,8 @@ fromBankAccount
 heapify
 IEnumerable
 IPowerPlug
+SwitchStatements
+abstractfactory
 isempty
 Libskov
 mongoPaymentRepository
@@ -354,18 +364,27 @@ ZeroPayablePayment
 
 
 # urls
+rdt
+src
+whatisrt
 AddSteps
 ccs
 dl
+agda
 edu
+dev
 exdb
 isFullScreen
 lecun
 README
 txt
+todo
 warmup
 FJE
 PLn
 nlO
 nrSd
 xjjaSLBSzmno
+blogspot
+craigstuntz
+yegge

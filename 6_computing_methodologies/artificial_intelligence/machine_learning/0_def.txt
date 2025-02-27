@@ -57,6 +57,6 @@ Traditional Programming vs Machine learning⁶
             refer 2_machine_learning_systems.txt for deeper look.
 references:
     1 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-4-stochastic-thinking/, pg 371
-    2,3,4,5 Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow by Aurélien Géron. Copyright 2019 Aurélien Géron, 978-1-492-03264-9. O'Reilly
+    2,3,4,5 Geron A. 2019. Hands On Machine Learning with Scikit Learn and TensorFlow. 2nd edition.
     6 Jeremy Kepner, and Vijay Gadepally. RES.LL-005 Mathematics of Big Data and Machine Learning. January IAP 2020. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. 
     6 The Master Algorithm, Pedro Domingos

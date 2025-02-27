@@ -1,8 +1,0 @@
-key principles:    
-    Capacity - Bandwidth
-    Resilience/Redundancy - given line x from point A to B, you must have line y in the event x is unavailable
-    Availability - can you connect point A and B
-
-network design:
-    vendor selection
-    interoperability study

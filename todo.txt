@@ -42,6 +42,10 @@
     - quizzes: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/quizzes/
 
 - 5_software_and_its_engineering/0_software_notations_and_tools/3_compilers
+    https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html
+    https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html
+    https://amasad.me/compilers
+    https://www.reddit.com/r/Compilers/comments/101b6kb/why_should_i_learn_compilers/?rdt=64683
     - lectures:
         - Aiken, A. StanfordOnline SOE.YCSCS1 Compiler
             - https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YCSCS1+3T2024/home
@@ -89,9 +93,12 @@
             - Prof. Charles Leiserson, Prof. Julian Shun. 2018. MIT 6.172 Performance Engineering of Software Systems
                 - current: None
         - readings:
+            - verilog: https://github.com/praisetompane-programming-languages/verilog
+                - https://web.mit.edu/6.111/www/f2017/handouts/L03_4.pdf
+                - https://inst.eecs.berkeley.edu/~eecs151/fa20/files/verilog/Verilog_Primer_Slides.pdf
+                - https://www.chipverify.com/verilog/verilog-tutorial
             - https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/
             - but_how_do_it_know?_the_basic_principles_of_computers_for_everyone
-            - https://github.com/brianrhall/Assembly
             - hardware integration | hardware-software integration | system integration: https://www.tea.blue/blog/hardware-software-integration-benefits/
         - assignments:
         - exams:
@@ -100,18 +107,17 @@
         - lectures:
         - readings:
             - machine_code: instruction sets:
-                - x86
-                - arm
-                - mibs
-                - risc-v:
+                - RISC-V:
                     - https://github.com/riscv
                     - https://github.com/mit-pdos/xv6-riscv
-                - cisc
+                - ARM
+                - MIPS 
+                - CISC  
+                    - x86
                 - source: https://crackmes.one
             - assembly:
                 - lectures:
                     - Slonka, K., Hall, B.R. 2020. Assembly Programming and Computer Architecture for Software Engineers. 2nd Edition
-
                     - Leiserson, C., Shun, J. 2018. MIT 6.172 Performance Engineering of Software Systems
                         - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-videos/lecture-4-assembly-language-computer-architecture
                             Lecture 4: Assembly Language & Computer Architecture:
@@ -120,32 +126,34 @@
                                 - https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-5-c-to-assembly/
                 - readings:
                     - https://github.com/brianrhall/Assembly
+            - c: https://github.com/praise-programming-languages/c
+                - go: https://github.com/praise-programming-languages/go
+                - c++
+                - rust
             - python: https://github.com/praisetompane-programming-languages/python
                 - mojo[after all python and the other languages are learned]
                     - superset: https://github.com/modularml/mojo
                 - cpython[being studied as part of studying the language spec]
                     - study the cpython code base: https://github.com/praisetompane-programming-languages/cpython
-            - go: https://github.com/praise-programming-languages/go
-            - javascript: https://github.com/praise-programming-languages/javascript
-                - typescript: https://github.com/praise-programming-languages/typescript
-            - c: https://github.com/praise-programming-languages/c
-                - c++
-                - rust
             - haskell: https://github.com/praisetompane-programming-languages/haskell
                 - scala: https://github.com/praise-programming-languages/scala[already learned, but could learn more including scala 3]
                 - source:
                     - https://github.com/haskell
                     - https://github.com/ghc
-            - verilog: https://github.com/praisetompane-programming-languages/verilog
-                - https://web.mit.edu/6.111/www/f2017/handouts/L03_4.pdf
-                - https://inst.eecs.berkeley.edu/~eecs151/fa20/files/verilog/Verilog_Primer_Slides.pdf
-                - https://www.chipverify.com/verilog/verilog-tutorial
-            - lean: https://github.com/praisetompane-programming-languages/lean
-                - source:
-                    - https://github.com/leanprover
-            - coq: https://github.com/praisetompane-programming-languages/coq
-                - source:
-                    - https://github.com/coq
+            - pytorch
+            - proof assistants
+                - https://whatisrt.github.io/dependent-types/2020/02/18/agda-vs-coq-vs-idris.html
+                - idris: https://www.idris-lang.org:
+                    - Brady E. 2017. Type Driven Development with Idris
+                    - https://github.com/idris-lang/Idris2
+                - lean: https://github.com/praisetompane-programming-languages/lean
+                    - source:
+                        - https://github.com/leanprover
+                - coq: https://github.com/praisetompane-programming-languages/coq
+                    - source:
+                        - https://github.com/coq
+            - javascript: https://github.com/praise-programming-languages/javascript
+                - typescript: https://github.com/praise-programming-languages/typescript
             - computer_programming: https://github.com/praisetompane/computer_programming
                 - source:
                     Van Roy, P. 2004. Concepts, Techniques, and Models of Computer Programming

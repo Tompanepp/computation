@@ -83,6 +83,7 @@ research:
                 - pytorch
                 - tensorflow
                 - keras
+                
             - statistical ml:
                 - course: machine learning tutorial python | machine learning for beginners
                     nb: first 21 videos only
@@ -129,7 +130,6 @@ research:
                         - dimensionality reduction(pca)
                     - feature engineering:
                         
-
             - deep learning:
                 - what is a neural network?
                     - forward propagation
@@ -157,6 +157,7 @@ research:
                         - potato disease classification: deep learning project end to end.
                                 - reinforcement learning:
                 - ...
+            
             - nlp | computer vision 
                 nb: this where people specialize
                 - computer vision
