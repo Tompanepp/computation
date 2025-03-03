@@ -159,12 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-
-
 tree.txt
-
-
-
 # NODE
 node_modules
 
@@ -173,4 +168,4 @@ node_modules
 
 .DS_Store
 journal/
-accreditation.txt 
+accreditation.txt

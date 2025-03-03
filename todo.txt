@@ -93,7 +93,7 @@
             - Prof. Charles Leiserson, Prof. Julian Shun. 2018. MIT 6.172 Performance Engineering of Software Systems
                 - current: None
         - readings:
-            - verilog: https://github.com/praisetompane-programming-languages/verilog
+            - verilog: https://github.com/praisetompane/verilog
                 - https://web.mit.edu/6.111/www/f2017/handouts/L03_4.pdf
                 - https://inst.eecs.berkeley.edu/~eecs151/fa20/files/verilog/Verilog_Primer_Slides.pdf
                 - https://www.chipverify.com/verilog/verilog-tutorial
@@ -111,8 +111,8 @@
                     - https://github.com/riscv
                     - https://github.com/mit-pdos/xv6-riscv
                 - ARM
-                - MIPS 
-                - CISC  
+                - MIPS
+                - CISC
                     - x86
                 - source: https://crackmes.one
             - assembly:
@@ -126,34 +126,31 @@
                                 - https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-5-c-to-assembly/
                 - readings:
                     - https://github.com/brianrhall/Assembly
-            - c: https://github.com/praise-programming-languages/c
-                - go: https://github.com/praise-programming-languages/go
+            - c: https://github.com/praisetompane/c
+                - go: https://github.com/praisetompane/go
                 - c++
                 - rust
-            - python: https://github.com/praisetompane-programming-languages/python
+                - zig
+            - python: https://github.com/praisetompane/python
                 - mojo[after all python and the other languages are learned]
                     - superset: https://github.com/modularml/mojo
                 - cpython[being studied as part of studying the language spec]
-                    - study the cpython code base: https://github.com/praisetompane-programming-languages/cpython
-            - haskell: https://github.com/praisetompane-programming-languages/haskell
-                - scala: https://github.com/praise-programming-languages/scala[already learned, but could learn more including scala 3]
-                - source:
-                    - https://github.com/haskell
-                    - https://github.com/ghc
+                    - study the cpython code base: https://github.com/praisetompane/cpython
+            - haskell: https://github.com/praisetompane/haskell
+                - scala: https://github.com/praisetompane/scala[already learned, but could learn more including scala 3]
+                - proof assistants | languages with dependent types  
+                    - https://whatisrt.github.io/dependent-types/2020/02/18/agda-vs-coq-vs-idris.html
+                    - idris: https://www.idris-lang.org:
+                        - Brady E. 2017. Type Driven Development with Idris
+                        - https://github.com/idris-lang/Idris2
+                    - lean: https://github.com/praisetompane/lean
+                        - source:
+                            - https://github.com/leanprover
+                    - coq: https://github.com/praisetompane/coq
+                        - source:
+                            - https://github.com/coq
+            - verilog | vdhl
             - pytorch
-            - proof assistants
-                - https://whatisrt.github.io/dependent-types/2020/02/18/agda-vs-coq-vs-idris.html
-                - idris: https://www.idris-lang.org:
-                    - Brady E. 2017. Type Driven Development with Idris
-                    - https://github.com/idris-lang/Idris2
-                - lean: https://github.com/praisetompane-programming-languages/lean
-                    - source:
-                        - https://github.com/leanprover
-                - coq: https://github.com/praisetompane-programming-languages/coq
-                    - source:
-                        - https://github.com/coq
-            - javascript: https://github.com/praise-programming-languages/javascript
-                - typescript: https://github.com/praise-programming-languages/typescript
             - computer_programming: https://github.com/praisetompane/computer_programming
                 - source:
                     Van Roy, P. 2004. Concepts, Techniques, and Models of Computer Programming

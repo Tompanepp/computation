@@ -35,7 +35,7 @@ class LinkedList:
         while current_node != None:
             next_node = current_node.next
 
-            # NB: The key is here. we set a node's successor(i.e. nxet) value to be its predecessor. which is what reversal means.
+            # NB: The key is here. we set a node's successor(i.e. next) value to be its predecessor. which is what reversal means.
             # The rest is housekeeping to remember who was next and was the previous.
             current_node.next = previous_node
 
