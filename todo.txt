@@ -47,6 +47,7 @@
     https://amasad.me/compilers
     https://www.reddit.com/r/Compilers/comments/101b6kb/why_should_i_learn_compilers/?rdt=64683
     - lectures:
+        - Tratt, L. 2024. Creating Your Own Programming Language - Computerphile.
         - Aiken, A. StanfordOnline SOE.YCSCS1 Compiler
             - https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YCSCS1+3T2024/home
         - Appel, A.W. 1997. Modern Compiler Implementation in C
@@ -138,7 +139,7 @@
                     - study the cpython code base: https://github.com/praisetompane/cpython
             - haskell: https://github.com/praisetompane/haskell
                 - scala: https://github.com/praisetompane/scala[already learned, but could learn more including scala 3]
-                - proof assistants | languages with dependent types  
+                - proof assistants | languages with dependent types
                     - https://whatisrt.github.io/dependent-types/2020/02/18/agda-vs-coq-vs-idris.html
                     - idris: https://www.idris-lang.org:
                         - Brady E. 2017. Type Driven Development with Idris
@@ -154,7 +155,6 @@
             - computer_programming: https://github.com/praisetompane/computer_programming
                 - source:
                     Van Roy, P. 2004. Concepts, Techniques, and Models of Computer Programming
-
         - assignments:
         - exams:
 

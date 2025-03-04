@@ -4,12 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pyspelling = "==2.10"
-matplotlib = "==3.8.3"
-numpy = "==1.26.4"
+numpy = "*"
+matplotlib = "*"
 
 [dev-packages]
-ipykernel = "==6.29.5"
+pyspelling = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.13"

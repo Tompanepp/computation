@@ -63,6 +63,8 @@ Yanofsky
 Zach
 Slonka
 Geron
+Tratt
+
 
 # concepts
 superset
@@ -250,6 +252,8 @@ Worndet
 yaml
 cpython
 modularml
+vdhl
+zig
 
 
 # institutions
@@ -309,7 +313,7 @@ MITx's
 XSeries
 mitx
 xseries
-
+Computerphile
 
 # programming keyowrds
 ArrayList
