@@ -15,4 +15,4 @@ def framework: a structure to build software on/in
 def environment: ???
 
 References:
-    Code Academy. 2021. What Is a Framework?. 
+    - Code Academy. 2021. What Is a Framework?. 

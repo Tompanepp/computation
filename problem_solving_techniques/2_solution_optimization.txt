@@ -61,4 +61,4 @@ Standard Asymptotic Complexities:
                         ∴ discard the 2
                         
 References:
-    Mcdowell G.L. 2015. Cracking The Coding Interview. 6th ed. CareerCup.
+    - Mcdowell G.L. 2015. Cracking The Coding Interview. 6th ed. CareerCup.

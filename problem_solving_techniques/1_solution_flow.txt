@@ -20,5 +20,5 @@ flow: (Mcdowell, 2015:62)
     9. Test
 
 References:
-    McDowell G.L. 2015. Cracking The Coding Interview. 6th ed. CareerCup.
+    - McDowell G.L. 2015. Cracking The Coding Interview. 6th ed. CareerCup.
 

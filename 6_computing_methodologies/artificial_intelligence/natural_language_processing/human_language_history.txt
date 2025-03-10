@@ -8,5 +8,5 @@ human language and word meaning (Manning, 2019):
         - spatial: to different people, countries, etc
         - temporal: for posterity
 
-references: 
-    Manning C.D. 2019. Stanford CS224N. Lecture 1 – Introduction and Word Vectors
+References: 
+    - Manning, C.D. 2019. Lecture 1 – Introduction and Word Vectors, CS224N - Natural Language Processing. Stanford.

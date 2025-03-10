@@ -2,4 +2,4 @@ def compiler(Aho, Lam, Sethi, Ullman, 2006:1): software system that translates p
     to a form that can be executed by a computer 
 
 References:
-    Aho A., Lam M, Sethi R., Ullman J. Compilers - Principles, Techniques, and Tools. 2nd ed. Addison-Wesley.
+    - Aho A., Lam M, Sethi R., Ullman J. Compilers - Principles, Techniques, and Tools. 2nd ed. Addison-Wesley.

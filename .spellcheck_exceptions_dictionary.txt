@@ -7,9 +7,13 @@ SRP
 TBD
 ZA
 vec
+AMATH
+
 
 # authors
+Guttag
 amasad
+Nystrom
 ahmedbahaaeldin
 Aho
 Amarasinghe
@@ -64,7 +68,8 @@ Zach
 Slonka
 Geron
 Tratt
-
+Pretnar
+Siek
 
 # concepts
 superset
@@ -179,6 +184,9 @@ WHITESPACES
 wikibooks
 xgboost
 XPATH
+PLT
+Redex
+
 
 # domain specific
 trie
@@ -392,3 +400,6 @@ xjjaSLBSzmno
 blogspot
 craigstuntz
 yegge
+IUCompilerCourse
+sewpr
+toc

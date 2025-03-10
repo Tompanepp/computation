@@ -29,4 +29,4 @@ def complexity theory(Sipser. 2012:2):
     - proof: None. It is a field.
 
 References:
-    Sipser, M. 2012. Introduction to the Theory of Computation. Cengage Learning.
+    - Sipser, M. 2013. Introduction to the Theory of Computation. 3rd edition. Cengage Learning.

@@ -22,6 +22,6 @@ def repository: a storage location for software packages
         - JFrog Artifactory
 
 References:
-    Code Academy. What Is a Framework?. 2021. https://www.codecademy.com/resources/blog/what-is-a-framework/.
-    Software repository. https://en.wikipedia.org/wiki/Software_repository.
-    Debian. What is a package manager?. https://www.debian.org/doc/manuals/aptitude/pr01s02.en.html.
+    - Code Academy. 2021. What Is a Framework?. https://www.codecademy.com/resources/blog/what-is-a-framework/.
+    - Software repository. https://en.wikipedia.org/wiki/Software_repository.
+    - Debian. What is a package manager?. https://www.debian.org/doc/manuals/aptitude/pr01s02.en.html.

@@ -29,4 +29,4 @@ Performance Analysis (Wengrow, 2017:144-150):
             Rest of list = N steps to last value + 1 step to appoint last value's next = 𝑂(𝑁) + O(1) = 𝑂(𝑁)
 
 References:
-    Wengrow J. 2017. A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills.
+    - Wengrow J. 2017. A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills.

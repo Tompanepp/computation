@@ -14,5 +14,5 @@ Main Regions and Notable landmarks of the Continent of Machine Learning¹:
         P1: Instance Based Learning
         P2:  Model Based Learning 
 
-references:
-    Geron A. 2019. Hands On Machine Learning with Scikit Learn and TensorFlow. 2nd edition.
+References:
+    - Geron A. 2019. Hands On Machine Learning with Scikit Learn and TensorFlow. 2nd edition.

@@ -18,5 +18,5 @@ def lexical analysis/scanning(Aho, Lam, Sethi, Ullman, 2006:5-6):   first phase 
                     of language (Oxford American Dictionary).
 
 References:
-    Aho, AV. Lam, MS. Sethi, R. Ullman, JD. 2006. Compilers - Principles, Techniques, and Tools. 2e.
+    - Aho A., Lam M, Sethi R., Ullman J. Compilers - Principles, Techniques, and Tools. 2nd ed. Addison-Wesley.
 

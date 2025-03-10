@@ -71,4 +71,4 @@
                                             k = log₂n + 1
                                             ∴ O(log₂n)
 References: 
-    Neso Academy. 2020. Data Structures. Introduction to Data Structures.
+    - Neso Academy. 2020. Data Structures. Introduction to Data Structures.

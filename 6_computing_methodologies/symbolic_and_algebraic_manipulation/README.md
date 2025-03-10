@@ -6,6 +6,6 @@ def: field of study that focuses on development and use **algorithms** to **solv
 * https://leanprover.github.io
 
 # References:
-* De Sterck, H. Ullrich P. 2006. Introduction To Computational Mathematics. Department of Applied Mathematics University of Waterloo.
+    - De Sterck, H. Ullrich P. 2006. AMATH 242/CS 371/CM 271 - Introduction To Computational Mathematics. University of Waterloo.
 
   

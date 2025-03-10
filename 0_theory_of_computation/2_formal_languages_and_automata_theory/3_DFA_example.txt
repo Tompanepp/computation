@@ -36,4 +36,4 @@ Test Cases (Neso Academy):
             ∴ string is invalid
 
 References:
-    Neso Academy. 2016. Theory of Computation & Automata Theory. Finite State Machine (Finite Automata).
+    - Neso Academy. 2016. Theory of Computation & Automata Theory. Finite State Machine (Finite Automata).

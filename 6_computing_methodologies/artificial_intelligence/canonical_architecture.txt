@@ -1,4 +1,4 @@
-        Sensors(iOT, Cellphones, ...)¹                                                                         Users(Missions)
+        Sensors(iOT, Cellphones, ...)(Kepner, Gadepally, 2020)                                                                         Users(Missions)
                 --Structured Data  --->                information      knowledge                           Autonomous vehicles(cars, planes)
                                         Data Conditioning ---> Algorithms ---> Human-Machine Co-Team --->   Medical Practitioners                                
                 --Unstructured Data--->                                                                            |
@@ -14,7 +14,7 @@
 Explainable AI      Accuracy and Bias Measurements      Verification and Validation     Security     Ethics, Policies, Safety and Training
 -------------------------------------------------------------------------------------------------------------------------
 
-Data Conditioning³:
+Data Conditioning(Domingos, 2015):
     Data Conditioning and Storage
     Structured Data
     Unstructured Data
@@ -29,7 +29,7 @@ Data Conditioning³:
     
 
 Algorithms:
-    The Five Tribes of Machine Learning² 
+    The Five Tribes of Machine Learning(Domingos, 2015)
         Symbolists(e.g. exp. sys)
 
         Bayesians(e.g. naive Bayes)
@@ -40,7 +40,7 @@ Algorithms:
 
         Evolutionaries(e.g. Genetic Programming)
 
- Human-Machine Co-Team⁴:
+ Human-Machine Co-Team(Domingos, 2015):
     y = Scale vs x = Complexity:
         High Scale with Low Complexity => Machine
         Low Scale with High Complexity => Human
@@ -52,7 +52,6 @@ Algorithms:
         Mid Confidence Level with MIT Consequence of Action => Machine Augment Human
     
 
-references:
-    2,3,4 The Master Algorithm, Pedro Domingos
-    1 Jeremy Kepner, and Vijay Gadepally. RES.LL-005 Mathematics of Big Data and Machine Learning. January IAP 2020.
-            Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu.
+References:
+    - Domingos, P. 2015. The Master Algorithm.
+    - Kepner, J., Gadepally, V. 2020. RES.LL-005 - Mathematics of Big Data and Machine Learning. Massachusetts Institute of Technology

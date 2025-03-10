@@ -9,4 +9,4 @@ Equality (Sedgewick, Wayne)
         totality: either v <= w or w <=v or both(i.e v <= w and w <= v, therefore v = w)
 
 References:
-    Sedgewick R., Wayne K. Algorithms, Part I Princeton University. Coursera
+    - Sedgewick R., Wayne K. Algorithms Part I. Princeton University.

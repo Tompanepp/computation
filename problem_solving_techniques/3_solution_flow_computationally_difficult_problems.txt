@@ -10,4 +10,4 @@ when confronted with a problem that seems computationally difficulty (Sipser. 20
 
 
 References:
-    Sipser, M. 2012. Introduction to the Theory of Computation. Cengage Learning.
+    - Sipser, M. 2012. Introduction to the Theory of Computation. Cengage Learning.

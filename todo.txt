@@ -1,9 +1,10 @@
 - 0_foundations/0_theory_of_computation:
     - lectures:
-        - Sipser, M. 2020. MIT 18.404J Theory of Computation
+        - Sipser, M. 2020. 18.404J - Theory of Computation. Massachusetts Institute of Technology
+            - current: Lecture 1: 1. Introduction, Finite Automata, Regular Expressions: *
     - readings:
-        https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/lecture-notes/
-        https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/readings/
+        - https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/readings/ :
+            - Sipser, M. 2013. Introduction to the Theory of Computation. 3rd edition. Cengage Learning
     - recitations:
     - assignments:
         https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/assignments/
@@ -12,28 +13,35 @@
 
 - 1_mathematics_of_computing:
     - lectures:
-        - Leighton, T. van Dijk, M. 2010. MIT 6042J Mathematics for Computer Science
-            - current: Lecture 1: Introduction and proofs: *
+        - Leighton, T. van Dijk, M. 2010. 6042J - Mathematics for Computer Science. Massachusetts Institute of Technology
+            - current: Lecture 1: Introduction and proofs: **
     - readings:
         - https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/readings/
+            - current:  Chapter 1: Propositions:
+                        Chapter 2: Patterns of proof:
         - Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA.
             - current position: pg. 6, exercise 1.1, question 4
     - recitations:
         - https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/recitations/
+            - current: 1	Logic, proving an implication
     - assignments:
         - https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/assignments/
+            - current: 1
     - exams:
         - https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/exams/
+            - current: N/A for now.
 
 - 0_theory_of_computation/3_design_and_analysis_of_algorithms:
-    - resource index: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/resource-index/
     - lectures:
-        - Demaine, E., Ku, J., Solomon, J. 2020. MIT 6.006 Introduction to Algorithms:
+        - Demaine, E., Ku, J., Solomon, J. 2020. 6.006 - Introduction to Algorithms. Massachusetts Institute of Technology
             - current: 1. Algorithms and Computation: *
-        - Demaine, E., Devadas, S. 2011. MIT 6.006 Introduction to Algorithms:
+
+        - Demaine, E., Devadas, S. 2011. 6.006 - Introduction to Algorithms. Massachusetts Institute of Technology
             - current: Lecture 2: Models of Computation, Document Distance: *
+        - Sedgewick R., Wayne K. Algorithms Part I. Princeton University.
     - readings:
         - https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/lecture-notes/
+        - Wengrow J. 2017. A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills
     - assignments:
         - https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/assignments/
         - practice:
@@ -41,48 +49,100 @@
     - exams:
     - quizzes: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/quizzes/
 
-- 5_software_and_its_engineering/0_software_notations_and_tools/3_compilers
-    https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html
-    https://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html
-    https://amasad.me/compilers
-    https://www.reddit.com/r/Compilers/comments/101b6kb/why_should_i_learn_compilers/?rdt=64683
+- 5_software_and_its_engineering/0_software_notations_and_tools/1_general_programming_languages:
     - lectures:
-        - Tratt, L. 2024. Creating Your Own Programming Language - Computerphile.
-        - Aiken, A. StanfordOnline SOE.YCSCS1 Compiler
-            - https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YCSCS1+3T2024/home
-        - Appel, A.W. 1997. Modern Compiler Implementation in C
-        - Appel, A.W. 1998. Modern Compiler Implementation in ML
-        - Neso Academy. 2023. Compiler Design
-        - Rinard, M., Amarasinghe, S. 2005. MIT 6.035 Computer Language Engineering
-        - Leiserson, C., Shun, J. 2018. MIT 6.172 Performance Engineering of Software Systems
-            - current: Lecture 9: What Compilers Can and Cannot Do
+        - Cain, J. 2008. CS107 - Programming Paradigms. Stanford
+            - https://see.stanford.edu/course/cs107
+        - Bauer, A, Pretnar, M. The Programming Languages Zoo
     - readings:
-        - craftinginterpreters
-            - https://craftinginterpreters.com/contents.html
-            - computation_and_information/5_software_and_its_engineering/0_software_notations_and_tools/3_compilers/craftinginterpreters
-        - https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/pages/readings/
-        - Cooper, Keith, and Linda Torczon. Engineering a Compiler. San Mateo, CA: Morgan Kaufman, 2003. ISBN: 155860698X.
-            A modern classroom textbook, with increased emphasis on the back-end and implementation techniques. (Ark book)
-        - Appel, Andrew W. Modern Compiler Implementation in Java®. Cambridge, UK: Cambridge University Press, 1997. ISBN: 0521583888.
-            A textbook tutorial on compiler implementation, including techniques for many language features. (Tiger book)
-            - https://www.cs.princeton.edu/~appel/modern/java/
-            - https://www.cs.princeton.edu/~appel/modern/c/
-        - Muchnick, Steven. Advanced Compiler Design and Implementation. 1st ed. San Mateo, CA: Morgan Kaufman, 1997. ISBN: 1558603204.
-            Essentially a recipe book of optimizations; very complete and suited for industrial practitioners and researchers. (Whale book)
-        - Aho, Alfred V., Ravi Sethi, and Jeffrey Ullman. Compilers: Principles, Techniques and Tools. Reading, MA: Addison-Wesley, 1986. ISBN: 0201100886.
-            The classic compilers textbook, although its front-end emphasis reflects its age. (Dragon book)
+        - https://see.stanford.edu/course/cs107: Under the Resources section
+        - machine_code: instruction sets:
+            - RISC-V:
+                - https://github.com/riscv
+                - https://github.com/mit-pdos/xv6-riscv
+            - ARM
+            - MIPS
+            - CISC
+                - x86
+            - source: https://crackmes.one
+        - assembly:
+            - lectures:
+                - Slonka, K., Hall, B.R. 2020. Assembly Programming and Computer Architecture for Software Engineers. 2nd Edition
+                - Leiserson, C., Shun, J. 2018. 6.172 - Performance Engineering of Software Systems. Massachusetts Institute of Technology
+                    - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-videos/lecture-4-assembly-language-computer-architecture
+                        Lecture 4: Assembly Language & Computer Architecture:
+                            - https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-4-assembly-language-computer-architecture/
+                        Lecture 5: C to Assembly
+                            - https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-5-c-to-assembly/
+            - readings:
+                - https://github.com/brianrhall/Assembly
+        - c: https://github.com/praisetompane/c
+            - go: https://github.com/praisetompane/go
+            - c++
+            - rust
+            - zig
+        - python: https://github.com/praisetompane/python
+            - mojo[after all python and the other languages are learned]
+                - superset: https://github.com/modularml/mojo
+            - cpython[being studied as part of studying the language spec]
+                - study the cpython code base: https://github.com/praisetompane/cpython
+        - haskell: https://github.com/praisetompane/haskell
+            - scala: https://github.com/praisetompane/scala[already learned, but could learn more including scala 3]
+            - proof assistants | languages with dependent types
+                - https://whatisrt.github.io/dependent-types/2020/02/18/agda-vs-coq-vs-idris.html
+                - idris: https://www.idris-lang.org:
+                    - Brady E. 2017. Type Driven Development with Idris
+                    - https://github.com/idris-lang/Idris2
+                - lean: https://github.com/praisetompane/lean
+                    - source:
+                        - https://github.com/leanprover
+                - coq: https://github.com/praisetompane/coq
+                    - source:
+                        - https://github.com/coq
+        - verilog | vdhl
+        - pytorch
+        - Pierce, B,C. Types and Programming Languages. The MIT Press
+        - Semantics Engineering with PLT Redex. https://redex.racket-lang.org/sewpr-toc.html
+        - computer_programming: https://github.com/praisetompane/computer_programming
+            - source:
+                Van Roy, P. 2004. Concepts, Techniques, and Models of Computer Programming
     - assignments:
+        - https://see.stanford.edu/course/cs107: Under the Assignments menu
     - exams:
-    - quizzes:
-    - tools:
-        - https://github.com/compiler-explorer/compiler-explorer
+        - https://see.stanford.edu/course/cs107: Under the Exams menu
+
 ============================================================================================================
 - next₁:
+    - 5_software_and_its_engineering/0_software_notations_and_tools/3_compilers
+        - lectures:
+            - Aiken, A. 2025. SOE-YCSCS1 - Compilers. Stanford
+            - Rinard, M., Amarasinghe, S. 2005. 6.035 - Computer Language Engineering. Massachusetts Institute of Technology
+            - Leiserson, C., Shun, J. 2018. 6.172 - Performance Engineering of Software Systems. Massachusetts Institute of Technology
+                - current: Lecture 9: What Compilers Can and Cannot Do
+            - Neso Academy. 2023. Compiler Design
+        - readings:
+            - Appel, A.W. 1997. Modern Compiler Implementation in C. Cambridge, UK: Cambridge University Press
+            - Nystrom, R. Crafting Interpreters. https://craftinginterpreters.com/contents.html
+            - Rinard, M. Amarasinghe, S. 2005. Computer Language Engineering (SMA 5502)
+            - Cooper, Keith, and Linda Torczon. Engineering a Compiler. San Mateo, CA: Morgan Kaufman, 2003. ISBN: 155860698X.
+                A modern classroom textbook, with increased emphasis on the back-end and implementation techniques. (Ark book)
+            - Siek, J. 2023. Essentials of Compilation. https://github.com/IUCompilerCourse/Essentials-of-Compilation
+            - Muchnick, Steven. Advanced Compiler Design and Implementation. 1st ed. San Mateo, CA: Morgan Kaufman, 1997. ISBN: 1558603204.
+                Essentially a recipe book of optimizations; very complete and suited for industrial practitioners and researchers. (Whale book)
+            - Aho A., Lam M, Sethi R., Ullman J. Compilers - Principles, Techniques, and Tools. 2nd ed. Reading, MA: Addison-Wesley, 1986. ISBN: 0201100886.
+                The classic compilers textbook, although its front-end emphasis reflects its age. (Dragon book)
+            - Appel, A.W. 1998. Modern Compiler Implementation in ML. Cambridge, UK: Cambridge University Press
+            - Appel, A.W. 1998. Modern Compiler Implementation in Java. Cambridge, UK: Cambridge University Press
+        - assignments:
+        - exams:
+        - quizzes:
+        - tools:
+            - https://github.com/compiler-explorer/compiler-explorer
+
     - 2_hardware:
         - lectures:
-            - Prof. Chris Terman. 2017. MIT 6.004 Computation Structures
+            - Prof. Chris Terman. 2017. 6.004 - Computation Structures. Massachusetts Institute of Technology
                 - current: 1.2.1 What is Information: *
-            - Slonka, K., Hall, B.R. 2020. Assembly Programming and Computer Architecture for Software Engineers. 2nd Edition
             - MITx's Circuits and Electronics XSeries Program:
                 - series: https://www.edx.org/xseries/mitx-circuits-and-electronics
                 - MITx: Circuits and Electronics 1: Basic Circuit Analysis
@@ -91,78 +151,26 @@
                     - https://www.edx.org/learn/circuits/massachusetts-institute-of-technology-circuits-and-electronics-2-amplification-speed-and-delay
                 - MITx: Circuits and Electronics 3: Applications
                     - https://www.edx.org/learn/electronics/massachusetts-institute-of-technology-circuits-and-electronics-3-applications-2
-            - Prof. Charles Leiserson, Prof. Julian Shun. 2018. MIT 6.172 Performance Engineering of Software Systems
+            - Prof. Charles Leiserson, Prof. Julian Shun. 2018. 6.172 - Performance Engineering of Software Systems. Massachusetts Institute of Technology
                 - current: None
         - readings:
+            - Slonka, K., Hall, B.R. 2020. Assembly Programming and Computer Architecture for Software Engineers. 2nd Edition
+            - Scott J.C. 2009. But how Do it Know? The Basic Principles of Computers for Everyone
             - verilog: https://github.com/praisetompane/verilog
                 - https://web.mit.edu/6.111/www/f2017/handouts/L03_4.pdf
                 - https://inst.eecs.berkeley.edu/~eecs151/fa20/files/verilog/Verilog_Primer_Slides.pdf
                 - https://www.chipverify.com/verilog/verilog-tutorial
-            - https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/
-            - but_how_do_it_know?_the_basic_principles_of_computers_for_everyone
             - hardware integration | hardware-software integration | system integration: https://www.tea.blue/blog/hardware-software-integration-benefits/
-        - assignments:
-        - exams:
-
-    - 5_software_and_its_engineering/0_software_notations_and_tools/1_general_programming_languages:
-        - lectures:
-        - readings:
-            - machine_code: instruction sets:
-                - RISC-V:
-                    - https://github.com/riscv
-                    - https://github.com/mit-pdos/xv6-riscv
-                - ARM
-                - MIPS
-                - CISC
-                    - x86
-                - source: https://crackmes.one
-            - assembly:
-                - lectures:
-                    - Slonka, K., Hall, B.R. 2020. Assembly Programming and Computer Architecture for Software Engineers. 2nd Edition
-                    - Leiserson, C., Shun, J. 2018. MIT 6.172 Performance Engineering of Software Systems
-                        - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-videos/lecture-4-assembly-language-computer-architecture
-                            Lecture 4: Assembly Language & Computer Architecture:
-                                - https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-4-assembly-language-computer-architecture/
-                            Lecture 5: C to Assembly
-                                - https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-5-c-to-assembly/
-                - readings:
-                    - https://github.com/brianrhall/Assembly
-            - c: https://github.com/praisetompane/c
-                - go: https://github.com/praisetompane/go
-                - c++
-                - rust
-                - zig
-            - python: https://github.com/praisetompane/python
-                - mojo[after all python and the other languages are learned]
-                    - superset: https://github.com/modularml/mojo
-                - cpython[being studied as part of studying the language spec]
-                    - study the cpython code base: https://github.com/praisetompane/cpython
-            - haskell: https://github.com/praisetompane/haskell
-                - scala: https://github.com/praisetompane/scala[already learned, but could learn more including scala 3]
-                - proof assistants | languages with dependent types
-                    - https://whatisrt.github.io/dependent-types/2020/02/18/agda-vs-coq-vs-idris.html
-                    - idris: https://www.idris-lang.org:
-                        - Brady E. 2017. Type Driven Development with Idris
-                        - https://github.com/idris-lang/Idris2
-                    - lean: https://github.com/praisetompane/lean
-                        - source:
-                            - https://github.com/leanprover
-                    - coq: https://github.com/praisetompane/coq
-                        - source:
-                            - https://github.com/coq
-            - verilog | vdhl
-            - pytorch
-            - computer_programming: https://github.com/praisetompane/computer_programming
-                - source:
-                    Van Roy, P. 2004. Concepts, Techniques, and Models of Computer Programming
         - assignments:
         - exams:
 
     - 3_computer_systems_organization:
         - lectures:
-            - Robert, M, Samuel, M. 2005. MIT 6.033 Computer System Engineering
+            - Cain, J. 2025. CS107 - Computer Organization and Systems. Stanford
+                - https://online.stanford.edu/courses/cs107-computer-organization-and-systems
+            - Robert, M, Samuel, M. 2005. 6.033 - Computer System Engineering Massachusetts Institute of Technology
                 - https://dspace.mit.edu/handle/1721.1/118791
-            - LaCurts, K. 2018. MIT 6.033 Computer System Engineering
+            - LaCurts, K. 2018. 6.033 - Computer System Engineering. Massachusetts Institute of Technology
                 - https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/pages/syllabus/
         - readings:
         - assignments:
@@ -178,11 +186,11 @@
 
 ============================================================================================================
 next₂:
-    - 5_software_and_its_engineering/1_software_organisation_and_properties
+    - 5_software_and_its_engineering/1_software_organization_and_properties
         - lectures:
-            - Robert, M, Samuel, M. 2005. MIT 6.033 Computer System Engineering
+            - Robert, M, Samuel, M. 2005. 6.033 - Computer System Engineering. Massachusetts Institute of Technology
                 - https://dspace.mit.edu/handle/1721.1/118791
-            - LaCurts, K. 2018. MIT 6.033 Computer System Engineering
+            - LaCurts, K. 2018. 6.033 - Computer System Engineering. Massachusetts Institute of Technology
                 - https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/pages/syllabus/
         - readings:
             - /contextual_software_domains/operating_systems
@@ -191,9 +199,9 @@ next₂:
     - 6_computing_methodologies/artificial_intelligence:
         - lectures:
             - Ben-David, S. 2015. University of Waterloo CS 485-685 Foundations of Machine Learning
-            - Broderick, T. 2020. MIT 6.036 Introduction to Machine Learning
+            - Broderick, T. 2020. 6.036 - Introduction to Machine Learning. Massachusetts Institute of Technology
             - Karpathy, A. 2022. Neural Networks - Zero to Hero
-            - Manning, C.D. 2019. Stanford CS224N Natural Language Processing
+            - Manning, C.D. 2019. CS224N - Natural Language Processing. Stanford
             - https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
         - readings:
         - assignments:
@@ -201,6 +209,7 @@ next₂:
 
     - 6_computing_methodologies/symbolic_and_algebraic_manipulation:
         - lectures:
+            - De Sterck, H. Ullrich P. 2006. AMATH 242/CS 371/CM 271 - Introduction To Computational Mathematics. University of Waterloo.
         - readings:
         - assignments:
         - exams:
@@ -219,5 +228,7 @@ next₂:
     - exams:
 ============================================================================================================
 legend:
-    *: S visit complete
-    **: R3 visit complete
+    *: SQ visit complete
+    **: R1 visit complete
+    ***: R2 visit complete
+    ****: R3 visit complete

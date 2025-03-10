@@ -47,5 +47,5 @@ Performance Analysis:
                 O(1)
 
 References:
-    Wengrow J. 2017. A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills
+    - Wengrow J. 2017. A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills.
     

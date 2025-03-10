@@ -4,7 +4,7 @@
 ## Objectives
 - An attempt at unpacking in layman's terms what computation and information are.
 
-## Definitions:
+## Definitions
 - def computation¹: the **transformation** of **sequences of symbols** by **precise rules**(Konrad, 2015:6).
 
   - de symbols = {1,0,\*,{,;,<,>,...}
@@ -53,9 +53,6 @@
 - [ACM A.M. Turing Award Laureate Interviews](https://www.youtube.com/playlist?list=PLn0nrSd4xjjaSLBSzmno-3Ods6FJE9nlO)
 
 ## Spell Check
-```shell
-pipenv shell
-```
 ```shell
 pyspelling -c spellcheck.yaml
 ```

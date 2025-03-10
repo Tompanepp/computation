@@ -52,5 +52,5 @@ two broad categories (Neso Academy).
         2.2.2. NonDeterministic Finite Automata - NFA
 
 References:
-    Neso Academy. 2019. Finite State Machine (Finite Automata). Theory of Computation & Automata Theory.
-    Sipser, M. 2020. Introduction to the Theory of Computation.
+    - Neso Academy. 2019. Finite State Machine (Finite Automata). Theory of Computation & Automata Theory.
+    - Sipser, M. 2013. Introduction to the Theory of Computation. 3rd edition. Cengage Learning.

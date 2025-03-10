@@ -6,6 +6,6 @@ defᵖˡᵃⁱⁿ_ᵉⁿᵍˡⁱˢʰ: data structures are just how you store thi
         a way to retrieve = access patterns = LIFO, FIFO etc
     
 References:
-    Wengrow J. 2017. A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills.
-    Demaine E. Ku J. Solomon J. Introduction To Algorithms. 2020. https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-1-algorithms-and-computation/
-    Demaine E. Devadas S. Introduction To Algorithms. 2011. https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-4-heaps-and-heap-sort/.
+    - Wengrow J. 2017. A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills.
+    - Demaine, E., Ku, J., Solomon, J. 2020. 6.006 - Introduction to Algorithms. Massachusetts Institute of Technology.
+    - Demaine, E., Devadas, S. 2011. 6.006 - Introduction to Algorithms. Massachusetts Institute of Technology.

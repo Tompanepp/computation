@@ -17,5 +17,5 @@ Logistic Regression:
 
     sigmoid function: function that exists only between 0 and 1 
 
-references:
-    Zach Star. 2018. The Mathematics of Machine Learning.
+References:
+    - Zach Star. 2018. The Mathematics of Machine Learning.

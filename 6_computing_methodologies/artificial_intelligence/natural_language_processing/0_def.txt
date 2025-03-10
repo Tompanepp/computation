@@ -22,5 +22,5 @@ traditional NLP(until ~2012)(Manning, 2019):
 neural network NLP (Manning, 2019):
     mean representation = distributional semantics
 
-references: 
-    Manning C. 2022. Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 1 – Introduction and Word Vectors.
+References: 
+    - Manning, C.D. 2019. Lecture 1 – Introduction and Word Vectors, CS224N - Natural Language Processing. Stanford.

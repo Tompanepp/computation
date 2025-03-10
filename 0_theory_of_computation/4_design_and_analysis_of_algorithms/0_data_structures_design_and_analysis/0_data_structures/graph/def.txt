@@ -109,4 +109,4 @@ Performance:
 
 
 References: 
-    Leighton T., van Dijk M. Mathematics For Computer Science. 2010. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-6-graph-theory-and-coloring/.
+    - Leighton, T. van Dijk, M. 2010. 6042J - Mathematics for Computer Science. Massachusetts Institute of Technology.

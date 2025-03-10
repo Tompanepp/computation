@@ -1,5 +1,5 @@
 Use Case 1:
-    Traditional Email Spam Flagging Programming Implementation¹
+    Traditional Email Spam Flagging Programming Implementation(Geron, 2019)
 
         1. Identify patterns in Spam email.
             Words/Phrases used = {4U, Credit Card, Winner, Lucky Day}
@@ -28,7 +28,7 @@ Use Case 1:
                     -------------Analyze The Errors--------------
 
 
-    Machine Learning Email Spam Flagging Implementation²:
+    Machine Learning Email Spam Flagging Implementation(Geron, 2019):
 
         1. Gather email data
             Ham email
@@ -54,7 +54,7 @@ Use Case 1:
         Cons:
             Rules are known by model and NOT explicit(given the current state of the art ~2022-March-28)
 
-        Flow: Automatically Adapting To Change ML Model³ 
+        Flow: Automatically Adapting To Change ML Model(Geron, 2019)
 
                     --------------Update Email Data <-------------- Launch
                     |                    |      {Automated Cycle}       ↑ Pass Testing
@@ -62,7 +62,7 @@ Use Case 1:
                     Email Data --> Train ML Model --> Evaluate the Solution
                 
 
-Broad Classes OF Machine Learning Suitable Problems⁴:
+Broad Classes OF Machine Learning Suitable Problems(Geron, 2019):
     - Use Case 1 : Problems which requires creating and updating long list of rules or hand-tuning to solve.
     - Use Case 2: Complex Problems: Problems for which there is no good traditional programming solution.
         Speech Recognition
@@ -79,5 +79,5 @@ Broad Classes OF Machine Learning Suitable Problems⁴:
                     |                                          ↓
             Iterate If Needed<-----------------------Understand Problem Better
 
-references:
-    1,2,3,4 Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow by Aurélien Géron (O'Reilly). Copyright 2019 Aurélien Géron, 978-1-492-03264-9, pg 5.
+References:
+    - Geron A. 2019. Hands On Machine Learning with Scikit Learn and TensorFlow. 2nd edition, pg 5.

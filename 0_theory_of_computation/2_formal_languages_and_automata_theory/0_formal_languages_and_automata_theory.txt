@@ -70,4 +70,4 @@ def Σ^* (Sipser, 2012:13-14):
         Σ^* = Set of strings of all lengths over the Alphabet {0,1}: Infinite
 
 References:
-    Sipser, M. 2020. Introduction to the Theory of Computation. https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/resources/introduction-finite-automata-regular-expressions/.
+    - Sipser, M. 2020. 18.404J - Theory of Computation. Massachusetts Institute of Technology.

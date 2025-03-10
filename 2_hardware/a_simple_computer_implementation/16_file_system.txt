@@ -25,5 +25,5 @@ def file system:
         https://tldp.org/LDP/sag/html/filesystems.html
 
 References:
-    Linux System Administrators Guide. Chapter 5. Using Disks and Other Storage Media. https://tldp.org/LDP/sag/html/filesystems.html
-    Scott J.C. 2009. But how Do it Know? The Basic Principles of Computers for Everyone.
+    - Linux System Administrators Guide. Chapter 5. Using Disks and Other Storage Media. https://tldp.org/LDP/sag/html/filesystems.html
+    - Scott J.C. 2009. But how Do it Know? The Basic Principles of Computers for Everyone.

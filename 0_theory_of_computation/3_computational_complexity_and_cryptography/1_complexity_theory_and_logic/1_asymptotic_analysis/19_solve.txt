@@ -66,4 +66,4 @@
             ∴ O(n^2) 
 
 References: 
-    Neso Academy. 2020. Data Structures. Introduction to Data Structures.
+    - Neso Academy. 2020. Data Structures. Introduction to Data Structures.

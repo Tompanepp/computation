@@ -75,4 +75,4 @@ Max Heap (Demaine, Devadas, 2011):
             - 1 node at level 𝑙𝑜𝑔(𝑁)    
             
 References: 
-    Demaine E., Devadas S. Introduction To Algorithms. 2011. https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-4-heaps-and-heap-sort/.
+    - Demaine, E., Devadas, S. 2011. 6.006 - Introduction to Algorithms. Massachusetts Institute of Technology.

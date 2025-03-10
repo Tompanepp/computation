@@ -33,5 +33,5 @@ Important Algorithms:
     - Decision Trees and Random Forests
     - Neural Networks(can also be unsupervised)
 
-references:
-    Geron A. 2019. Hands On Machine Learning with Scikit Learn and TensorFlow. 2nd edition.
+References:
+    - Geron A. 2019. Hands On Machine Learning with Scikit Learn and TensorFlow. 2nd edition.

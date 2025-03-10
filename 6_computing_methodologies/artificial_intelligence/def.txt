@@ -46,4 +46,4 @@ Constraints:
   - Reasoning: High
 
 References:
-  Kepner J., Gadepally V. 2020. RES.LL-005 Mathematics of Big Data and Machine Learning. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu.
+  - Kepner, J., Gadepally, V. 2020. RES.LL-005 - Mathematics of Big Data and Machine Learning. Massachusetts Institute of Technology
